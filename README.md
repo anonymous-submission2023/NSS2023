@@ -1,5 +1,5 @@
 # LDP-VAE
-This repository contents the information to reproduce the results presented in the conference [NSS 2023](https://nss-socialsec2023.cyber.kent.ac.uk/)
+This repository contents the information to reproduce the results submitted in the conference [NSS 2023](https://nss-socialsec2023.cyber.kent.ac.uk/)
 
 In this experiments, we propose use VAE in LDP approach
 
