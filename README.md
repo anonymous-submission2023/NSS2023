@@ -1,5 +1,6 @@
 # LDP-VAE
-This repository contents the information to reproduce the results submitted in the conference [NSS 2023](https://nss-socialsec2023.cyber.kent.ac.uk/) for [NHANES dataset](https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/)
+
+This repository contains the information necessary to reproduce the results submitted for the [NHANES dataset](https://wwwn.cdc.gov/Nchs/Nhanes/2015-2016/) at the [NSS 2023](https://nss-socialsec2023.cyber.kent.ac.uk/) conference
 
 In these experiments, we propose using VAE in the LDP approach.
 
